@@ -4,11 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+我是shadow sama，我有着丰富的履历：
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
+- 电商用户行为分析系统
+- Doneky car从组装到搭建
 What else do you need?
 
 ### My story
